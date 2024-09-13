@@ -245,7 +245,7 @@ html{
         padding: 0 30px;
         }
         
-        .div1 { grid-area: 1 / 1 / 2 / 3; height: 500px; background-image: url("assets/pista.png");background-size: 100% 100%;}
+        .div1 { grid-area: 1 / 1 / 2 / 3; height: 500px; background-image: url("./assets/pista.png");background-size: 100% 100%;}
         .div2 { grid-area: 2 / 1 / 3 / 2; height: 80px; margin: 0px;}
         .div3 { grid-area: 2 / 2 / 3 / 3; height: 80px;margin-top: 0;}
         .div4 { grid-area: 3 / 1 / 4 / 2; height: 80px;margin-top: 0;}
